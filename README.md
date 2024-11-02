@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...yet dont know
 - 📫 How to reach me ssouzafisico
 - 😄 Pronouns: 
-- ⚡ Fun fact: start with 58
+- ⚡ Fun fact: i startup here
+-  with 58
+  
+  
 
 <!---
 ssouzafisico/ssouzafisico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
